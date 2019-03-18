@@ -1,0 +1,13 @@
+.yellow {
+border-radius: 6px;
+border: 1px solid rgb(255, 166, 0);
+margin-bottom: 5px;
+padding-left: 2px;
+}
+
+.blue {
+border-radius: 6px;
+border: 1px solid blue;
+margin-bottom: 5px;
+padding-left: 2px;
+}
